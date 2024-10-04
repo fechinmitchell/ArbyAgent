@@ -22,7 +22,7 @@
 .env.production.local
 
 # backend environment files
-/backend/.env
+/arby-backend/.env
 
 # logs
 npm-debug.log*
