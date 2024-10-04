@@ -1,35 +1,75 @@
 import React, { useState, useEffect } from 'react';
 import './App.css';
+import { Card, CardContent, Typography, CircularProgress, Container, Grid } from '@mui/material';
+import './App.css';
 
 function App() {
-  const [backendMessage, setBackendMessage] = useState('Loading...');
+  const [arbitrageData, setArbitrageData] = useState([]);
+  const [statusMessage, setStatusMessage] = useState('Loading...');
 
-  // Fetching data from the backend
+  // Fetching arbitrage opportunities from the backend
   useEffect(() => {
-    fetch('https://arbyagent.onrender.com/api/odds')
+    fetch('https://arbyagent.onrender.com/api/arbitrage')
       .then(response => response.json())
-      .then(data => setBackendMessage(data.message))
+      .then(data => {
+        if (data.error) {
+          setStatusMessage(data.error);
+        } else {
+          setArbitrageData(data);
+          setStatusMessage('Data loaded successfully');
+        }
+      })
       .catch(error => {
         console.error('Error fetching from backend:', error);
-        setBackendMessage('Failed to connect to the backend.');
+        setStatusMessage('Failed to connect to the backend.');
       });
   }, []);
 
   return (
-    <div className="App">
+    <Container className="App">
       <header className="App-header">
-        <h1>Welcome to ArbyAgent!</h1>
-        <p>Your one-stop platform for automated arbitrage betting.</p>
-        <p>
-          This website is designed to connect with multiple bookmakers and fetch
-          real-time odds, allowing you to find arbitrage opportunities and make
-          risk-free bets. The goal is to streamline the betting process and help
-          you maximize your profits with minimal effort.
-        </p>
-        <h2>Backend Connection Status:</h2>
-        <p>{backendMessage}</p>
+        <Typography variant="h2" component="h1" gutterBottom>
+          Welcome to ArbyAgent!
+        </Typography>
+        <Typography variant="body1" gutterBottom>
+          Your one-stop platform for finding arbitrage opportunities on multiple bookmakers.
+        </Typography>
+        <Typography variant="h5" component="h2" gutterBottom>
+          Backend Connection Status:
+        </Typography>
+        <Typography variant="body2" color="textSecondary">
+          {statusMessage}
+        </Typography>
+
+        {arbitrageData.length > 0 ? (
+          <Grid container spacing={3} style={{ marginTop: '20px' }}>
+            {arbitrageData.map((arb, index) => (
+              <Grid item xs={12} md={6} key={index}>
+                <Card variant="outlined">
+                  <CardContent>
+                    <Typography variant="h6" component="h3">
+                      {arb.sport_title}: {arb.home_team} vs {arb.away_team}
+                    </Typography>
+                    <Typography variant="subtitle1" component="p" style={{ marginTop: '10px' }}>
+                      Bookmakers:
+                    </Typography>
+                    <ul>
+                      {arb.bookmakers.map((bookmaker, bIndex) => (
+                        <li key={bIndex}>
+                          <strong>{bookmaker.title}</strong>: Odds - {bookmaker.markets[0].outcomes[0].price}
+                        </li>
+                      ))}
+                    </ul>
+                  </CardContent>
+                </Card>
+              </Grid>
+            ))}
+          </Grid>
+        ) : (
+          <CircularProgress style={{ marginTop: '20px' }} />
+        )}
       </header>
-    </div>
+    </Container>
   );
 }
 
