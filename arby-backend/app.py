@@ -1,10 +1,17 @@
-### Updated Python Backend (`app.py`):
-
 import os
 import requests
 from flask import Flask, jsonify
+from flask_cors import CORS
+from dotenv import load_dotenv
+
+# Load environment variables from .env if running locally
+load_dotenv()
 
 app = Flask(__name__)
+
+# Enable CORS
+# Allow all origins for easier development and deployment
+CORS(app)
 
 # Get API key from environment variable
 API_KEY = os.getenv('ODDS_API_KEY')
@@ -41,4 +48,5 @@ def find_arbitrage():
         return jsonify({"error": "Failed to fetch sports data"}), 500
 
 if __name__ == '__main__':
+    # Run Flask locally on port 5000
     app.run(host='0.0.0.0', port=5000)
