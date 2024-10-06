@@ -1,0 +1,2644 @@
+[
+  {
+    "id": "d4ffa3b96049b9ab38e076aad07433a7",
+    "sport_key": "soccer_germany_liga3",
+    "sport_title": "3. Liga - Germany",
+    "commence_time": 1728214200,
+    "home_team": "Hannover 96",
+    "away_team": "FC Energie Cottbus",
+    "bookmakers": [
+      {
+        "key": "pinnacle",
+        "title": "Pinnacle",
+        "last_update": 1728183138,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728183138,
+            "outcomes": [
+              {
+                "name": "FC Energie Cottbus",
+                "price": 2.16
+              },
+              {
+                "name": "Hannover 96",
+                "price": 3.09
+              },
+              {
+                "name": "Draw",
+                "price": 3.95
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "tipico_de",
+        "title": "Tipico",
+        "last_update": 1728183140,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728183140,
+            "outcomes": [
+              {
+                "name": "FC Energie Cottbus",
+                "price": 2.1
+              },
+              {
+                "name": "Hannover 96",
+                "price": 3.1
+              },
+              {
+                "name": "Draw",
+                "price": 3.8
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": 1728183139,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728183139,
+            "outcomes": [
+              {
+                "name": "FC Energie Cottbus",
+                "price": 2.0
+              },
+              {
+                "name": "Hannover 96",
+                "price": 2.9
+              },
+              {
+                "name": "Draw",
+                "price": 3.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "suprabets",
+        "title": "Suprabets",
+        "last_update": 1728182864,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728182864,
+            "outcomes": [
+              {
+                "name": "FC Energie Cottbus",
+                "price": 2.17
+              },
+              {
+                "name": "Hannover 96",
+                "price": 3.04
+              },
+              {
+                "name": "Draw",
+                "price": 4.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betfair_sb_uk",
+        "title": "Betfair Sportsbook",
+        "last_update": 1728183139,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728183139,
+            "outcomes": [
+              {
+                "name": "FC Energie Cottbus",
+                "price": 2.0
+              },
+              {
+                "name": "Hannover 96",
+                "price": 2.8
+              },
+              {
+                "name": "Draw",
+                "price": 2.88
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betway",
+        "title": "Betway",
+        "last_update": 1728183140,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728183140,
+            "outcomes": [
+              {
+                "name": "FC Energie Cottbus",
+                "price": 2.05
+              },
+              {
+                "name": "Hannover 96",
+                "price": 3.0
+              },
+              {
+                "name": "Draw",
+                "price": 3.6
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": 1728183139,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728183139,
+            "outcomes": [
+              {
+                "name": "FC Energie Cottbus",
+                "price": 2.25
+              },
+              {
+                "name": "Hannover 96",
+                "price": 2.85
+              },
+              {
+                "name": "Draw",
+                "price": 3.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "ladbrokes_uk",
+        "title": "Ladbrokes",
+        "last_update": 1728183139,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728183139,
+            "outcomes": [
+              {
+                "name": "FC Energie Cottbus",
+                "price": 2.1
+              },
+              {
+                "name": "Hannover 96",
+                "price": 2.8
+              },
+              {
+                "name": "Draw",
+                "price": 3.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "coral",
+        "title": "Coral",
+        "last_update": 1728183138,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728183138,
+            "outcomes": [
+              {
+                "name": "FC Energie Cottbus",
+                "price": 2.1
+              },
+              {
+                "name": "Hannover 96",
+                "price": 2.8
+              },
+              {
+                "name": "Draw",
+                "price": 3.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "neds",
+        "title": "Neds",
+        "last_update": 1728183139,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728183139,
+            "outcomes": [
+              {
+                "name": "FC Energie Cottbus",
+                "price": 2.1
+              },
+              {
+                "name": "Hannover 96",
+                "price": 2.8
+              },
+              {
+                "name": "Draw",
+                "price": 3.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "ladbrokes_au",
+        "title": "Ladbrokes",
+        "last_update": 1728183140,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728183140,
+            "outcomes": [
+              {
+                "name": "FC Energie Cottbus",
+                "price": 2.1
+              },
+              {
+                "name": "Hannover 96",
+                "price": 2.8
+              },
+              {
+                "name": "Draw",
+                "price": 3.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "skybet",
+        "title": "Sky Bet",
+        "last_update": 1728183138,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728183138,
+            "outcomes": [
+              {
+                "name": "FC Energie Cottbus",
+                "price": 2.05
+              },
+              {
+                "name": "Hannover 96",
+                "price": 2.88
+              },
+              {
+                "name": "Draw",
+                "price": 3.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "mrgreen",
+        "title": "Mr Green",
+        "last_update": 1728183138,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728183138,
+            "outcomes": [
+              {
+                "name": "FC Energie Cottbus",
+                "price": 2.06
+              },
+              {
+                "name": "Hannover 96",
+                "price": 2.95
+              },
+              {
+                "name": "Draw",
+                "price": 3.65
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "leovegas",
+        "title": "LeoVegas",
+        "last_update": 1728183138,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728183138,
+            "outcomes": [
+              {
+                "name": "FC Energie Cottbus",
+                "price": 2.02
+              },
+              {
+                "name": "Hannover 96",
+                "price": 2.9
+              },
+              {
+                "name": "Draw",
+                "price": 3.6
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "casumo",
+        "title": "Casumo",
+        "last_update": 1728183138,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728183138,
+            "outcomes": [
+              {
+                "name": "FC Energie Cottbus",
+                "price": 2.07
+              },
+              {
+                "name": "Hannover 96",
+                "price": 3.0
+              },
+              {
+                "name": "Draw",
+                "price": 3.7
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "livescorebet",
+        "title": "LiveScore Bet",
+        "last_update": 1728183139,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728183139,
+            "outcomes": [
+              {
+                "name": "FC Energie Cottbus",
+                "price": 2.07
+              },
+              {
+                "name": "Hannover 96",
+                "price": 3.0
+              },
+              {
+                "name": "Draw",
+                "price": 3.7
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "unibet_uk",
+        "title": "Unibet",
+        "last_update": 1728183139,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728183139,
+            "outcomes": [
+              {
+                "name": "FC Energie Cottbus",
+                "price": 2.07
+              },
+              {
+                "name": "Hannover 96",
+                "price": 3.0
+              },
+              {
+                "name": "Draw",
+                "price": 3.7
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "unibet_eu",
+        "title": "Unibet",
+        "last_update": 1728183139,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728183139,
+            "outcomes": [
+              {
+                "name": "FC Energie Cottbus",
+                "price": 2.07
+              },
+              {
+                "name": "Hannover 96",
+                "price": 3.0
+              },
+              {
+                "name": "Draw",
+                "price": 3.7
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "livescorebet_eu",
+        "title": "LiveScore Bet (EU)",
+        "last_update": 1728183139,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728183139,
+            "outcomes": [
+              {
+                "name": "FC Energie Cottbus",
+                "price": 2.07
+              },
+              {
+                "name": "Hannover 96",
+                "price": 3.0
+              },
+              {
+                "name": "Draw",
+                "price": 3.7
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "unibet",
+        "title": "Unibet",
+        "last_update": 1728183138,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728183138,
+            "outcomes": [
+              {
+                "name": "FC Energie Cottbus",
+                "price": 2.07
+              },
+              {
+                "name": "Hannover 96",
+                "price": 3.0
+              },
+              {
+                "name": "Draw",
+                "price": 3.7
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "grosvenor",
+        "title": "Grosvenor",
+        "last_update": 1728183139,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728183139,
+            "outcomes": [
+              {
+                "name": "FC Energie Cottbus",
+                "price": 2.07
+              },
+              {
+                "name": "Hannover 96",
+                "price": 3.0
+              },
+              {
+                "name": "Draw",
+                "price": 3.7
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "tabtouch",
+        "title": "TABtouch",
+        "last_update": 1728183140,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728183140,
+            "outcomes": [
+              {
+                "name": "FC Energie Cottbus",
+                "price": 2.07
+              },
+              {
+                "name": "Hannover 96",
+                "price": 3.0
+              },
+              {
+                "name": "Draw",
+                "price": 3.7
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "virginbet",
+        "title": "Virgin Bet",
+        "last_update": 1728183139,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728183139,
+            "outcomes": [
+              {
+                "name": "FC Energie Cottbus",
+                "price": 2.07
+              },
+              {
+                "name": "Hannover 96",
+                "price": 3.0
+              },
+              {
+                "name": "Draw",
+                "price": 3.7
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betvictor",
+        "title": "Bet Victor",
+        "last_update": 1728183149,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728183149,
+            "outcomes": [
+              {
+                "name": "FC Energie Cottbus",
+                "price": 2.05
+              },
+              {
+                "name": "Hannover 96",
+                "price": 2.88
+              },
+              {
+                "name": "Draw",
+                "price": 3.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "nordicbet",
+        "title": "Nordic Bet",
+        "last_update": 1728183138,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728183138,
+            "outcomes": [
+              {
+                "name": "FC Energie Cottbus",
+                "price": 2.15
+              },
+              {
+                "name": "Hannover 96",
+                "price": 3.0
+              },
+              {
+                "name": "Draw",
+                "price": 3.75
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betsson",
+        "title": "Betsson",
+        "last_update": 1728183139,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728183139,
+            "outcomes": [
+              {
+                "name": "FC Energie Cottbus",
+                "price": 2.15
+              },
+              {
+                "name": "Hannover 96",
+                "price": 3.0
+              },
+              {
+                "name": "Draw",
+                "price": 3.75
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betfair_ex_uk",
+        "title": "Betfair",
+        "last_update": 1728183139,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728183139,
+            "outcomes": [
+              {
+                "name": "FC Energie Cottbus",
+                "price": 1.75
+              },
+              {
+                "name": "Hannover 96",
+                "price": 2.36
+              },
+              {
+                "name": "Draw",
+                "price": 3.35
+              }
+            ]
+          },
+          {
+            "key": "h2h_lay",
+            "last_update": 1728183139,
+            "outcomes": [
+              {
+                "name": "FC Energie Cottbus",
+                "price": 3.7
+              },
+              {
+                "name": "Hannover 96",
+                "price": 9.4
+              },
+              {
+                "name": "Draw",
+                "price": 4.3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "coolbet",
+        "title": "Coolbet",
+        "last_update": 1728183139,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728183139,
+            "outcomes": [
+              {
+                "name": "FC Energie Cottbus",
+                "price": 2.1
+              },
+              {
+                "name": "Hannover 96",
+                "price": 3.0
+              },
+              {
+                "name": "Draw",
+                "price": 3.75
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betfair_ex_eu",
+        "title": "Betfair",
+        "last_update": 1728183139,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728183139,
+            "outcomes": [
+              {
+                "name": "FC Energie Cottbus",
+                "price": 1.75
+              },
+              {
+                "name": "Hannover 96",
+                "price": 2.36
+              },
+              {
+                "name": "Draw",
+                "price": 3.35
+              }
+            ]
+          },
+          {
+            "key": "h2h_lay",
+            "last_update": 1728183139,
+            "outcomes": [
+              {
+                "name": "FC Energie Cottbus",
+                "price": 3.7
+              },
+              {
+                "name": "Hannover 96",
+                "price": 9.4
+              },
+              {
+                "name": "Draw",
+                "price": 4.3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betfair_ex_au",
+        "title": "Betfair",
+        "last_update": 1728183142,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728183142,
+            "outcomes": [
+              {
+                "name": "FC Energie Cottbus",
+                "price": 1.75
+              },
+              {
+                "name": "Hannover 96",
+                "price": 1.82
+              },
+              {
+                "name": "Draw",
+                "price": 2.12
+              }
+            ]
+          },
+          {
+            "key": "h2h_lay",
+            "last_update": 1728183142,
+            "outcomes": [
+              {
+                "name": "FC Energie Cottbus",
+                "price": 110.0
+              },
+              {
+                "name": "Hannover 96",
+                "price": 9.4
+              },
+              {
+                "name": "Draw",
+                "price": 4.3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "tab",
+        "title": "TAB",
+        "last_update": 1728183138,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728183138,
+            "outcomes": [
+              {
+                "name": "FC Energie Cottbus",
+                "price": 2.05
+              },
+              {
+                "name": "Hannover 96",
+                "price": 2.9
+              },
+              {
+                "name": "Draw",
+                "price": 3.7
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": 1728183139,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728183139,
+            "outcomes": [
+              {
+                "name": "FC Energie Cottbus",
+                "price": 2.12
+              },
+              {
+                "name": "Hannover 96",
+                "price": 2.96
+              },
+              {
+                "name": "Draw",
+                "price": 3.7
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": 1728183138,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728183138,
+            "outcomes": [
+              {
+                "name": "FC Energie Cottbus",
+                "price": 2.12
+              },
+              {
+                "name": "Hannover 96",
+                "price": 2.96
+              },
+              {
+                "name": "Draw",
+                "price": 3.7
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "playup",
+        "title": "PlayUp",
+        "last_update": 1728183139,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728183139,
+            "outcomes": [
+              {
+                "name": "FC Energie Cottbus",
+                "price": 2.05
+              },
+              {
+                "name": "Hannover 96",
+                "price": 2.9
+              },
+              {
+                "name": "Draw",
+                "price": 3.6
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "353c657f78ef5a4a473302f9dae37583",
+    "sport_key": "soccer_germany_liga3",
+    "sport_title": "3. Liga - Germany",
+    "commence_time": 1728225000,
+    "home_team": "1. FC Saarbr\u00fccken",
+    "away_team": "Arminia Bielefeld",
+    "bookmakers": [
+      {
+        "key": "pinnacle",
+        "title": "Pinnacle",
+        "last_update": 1728183138,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728183138,
+            "outcomes": [
+              {
+                "name": "1. FC Saarbr\u00fccken",
+                "price": 2.22
+              },
+              {
+                "name": "Arminia Bielefeld",
+                "price": 3.23
+              },
+              {
+                "name": "Draw",
+                "price": 3.57
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "tipico_de",
+        "title": "Tipico",
+        "last_update": 1728183140,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728183140,
+            "outcomes": [
+              {
+                "name": "1. FC Saarbr\u00fccken",
+                "price": 2.1
+              },
+              {
+                "name": "Arminia Bielefeld",
+                "price": 3.3
+              },
+              {
+                "name": "Draw",
+                "price": 3.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": 1728183139,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728183139,
+            "outcomes": [
+              {
+                "name": "1. FC Saarbr\u00fccken",
+                "price": 2.0
+              },
+              {
+                "name": "Arminia Bielefeld",
+                "price": 3.1
+              },
+              {
+                "name": "Draw",
+                "price": 3.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "suprabets",
+        "title": "Suprabets",
+        "last_update": 1728182864,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728182864,
+            "outcomes": [
+              {
+                "name": "1. FC Saarbr\u00fccken",
+                "price": 2.23
+              },
+              {
+                "name": "Arminia Bielefeld",
+                "price": 3.21
+              },
+              {
+                "name": "Draw",
+                "price": 3.56
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betfair_sb_uk",
+        "title": "Betfair Sportsbook",
+        "last_update": 1728183139,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728183139,
+            "outcomes": [
+              {
+                "name": "1. FC Saarbr\u00fccken",
+                "price": 1.91
+              },
+              {
+                "name": "Arminia Bielefeld",
+                "price": 3.0
+              },
+              {
+                "name": "Draw",
+                "price": 2.8
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": 1728183139,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728183139,
+            "outcomes": [
+              {
+                "name": "1. FC Saarbr\u00fccken",
+                "price": 2.2
+              },
+              {
+                "name": "Arminia Bielefeld",
+                "price": 3.1
+              },
+              {
+                "name": "Draw",
+                "price": 3.35
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "ladbrokes_uk",
+        "title": "Ladbrokes",
+        "last_update": 1728183139,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728183139,
+            "outcomes": [
+              {
+                "name": "1. FC Saarbr\u00fccken",
+                "price": 2.1
+              },
+              {
+                "name": "Arminia Bielefeld",
+                "price": 3.0
+              },
+              {
+                "name": "Draw",
+                "price": 3.3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "neds",
+        "title": "Neds",
+        "last_update": 1728183139,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728183139,
+            "outcomes": [
+              {
+                "name": "1. FC Saarbr\u00fccken",
+                "price": 2.1
+              },
+              {
+                "name": "Arminia Bielefeld",
+                "price": 3.0
+              },
+              {
+                "name": "Draw",
+                "price": 3.3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "ladbrokes_au",
+        "title": "Ladbrokes",
+        "last_update": 1728183140,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728183140,
+            "outcomes": [
+              {
+                "name": "1. FC Saarbr\u00fccken",
+                "price": 2.1
+              },
+              {
+                "name": "Arminia Bielefeld",
+                "price": 3.0
+              },
+              {
+                "name": "Draw",
+                "price": 3.3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "coral",
+        "title": "Coral",
+        "last_update": 1728183138,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728183138,
+            "outcomes": [
+              {
+                "name": "1. FC Saarbr\u00fccken",
+                "price": 2.1
+              },
+              {
+                "name": "Arminia Bielefeld",
+                "price": 3.0
+              },
+              {
+                "name": "Draw",
+                "price": 3.3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "mrgreen",
+        "title": "Mr Green",
+        "last_update": 1728183138,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728183138,
+            "outcomes": [
+              {
+                "name": "1. FC Saarbr\u00fccken",
+                "price": 2.08
+              },
+              {
+                "name": "Arminia Bielefeld",
+                "price": 3.1
+              },
+              {
+                "name": "Draw",
+                "price": 3.4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "leovegas",
+        "title": "LeoVegas",
+        "last_update": 1728183138,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728183138,
+            "outcomes": [
+              {
+                "name": "1. FC Saarbr\u00fccken",
+                "price": 2.04
+              },
+              {
+                "name": "Arminia Bielefeld",
+                "price": 3.05
+              },
+              {
+                "name": "Draw",
+                "price": 3.3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "casumo",
+        "title": "Casumo",
+        "last_update": 1728183138,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728183138,
+            "outcomes": [
+              {
+                "name": "1. FC Saarbr\u00fccken",
+                "price": 2.1
+              },
+              {
+                "name": "Arminia Bielefeld",
+                "price": 3.15
+              },
+              {
+                "name": "Draw",
+                "price": 3.4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "livescorebet",
+        "title": "LiveScore Bet",
+        "last_update": 1728183139,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728183139,
+            "outcomes": [
+              {
+                "name": "1. FC Saarbr\u00fccken",
+                "price": 2.1
+              },
+              {
+                "name": "Arminia Bielefeld",
+                "price": 3.15
+              },
+              {
+                "name": "Draw",
+                "price": 3.4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "unibet_uk",
+        "title": "Unibet",
+        "last_update": 1728183139,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728183139,
+            "outcomes": [
+              {
+                "name": "1. FC Saarbr\u00fccken",
+                "price": 2.1
+              },
+              {
+                "name": "Arminia Bielefeld",
+                "price": 3.15
+              },
+              {
+                "name": "Draw",
+                "price": 3.4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "unibet_eu",
+        "title": "Unibet",
+        "last_update": 1728183139,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728183139,
+            "outcomes": [
+              {
+                "name": "1. FC Saarbr\u00fccken",
+                "price": 2.1
+              },
+              {
+                "name": "Arminia Bielefeld",
+                "price": 3.15
+              },
+              {
+                "name": "Draw",
+                "price": 3.4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "livescorebet_eu",
+        "title": "LiveScore Bet (EU)",
+        "last_update": 1728183139,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728183139,
+            "outcomes": [
+              {
+                "name": "1. FC Saarbr\u00fccken",
+                "price": 2.1
+              },
+              {
+                "name": "Arminia Bielefeld",
+                "price": 3.15
+              },
+              {
+                "name": "Draw",
+                "price": 3.4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "unibet",
+        "title": "Unibet",
+        "last_update": 1728183138,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728183138,
+            "outcomes": [
+              {
+                "name": "1. FC Saarbr\u00fccken",
+                "price": 2.1
+              },
+              {
+                "name": "Arminia Bielefeld",
+                "price": 3.15
+              },
+              {
+                "name": "Draw",
+                "price": 3.4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "grosvenor",
+        "title": "Grosvenor",
+        "last_update": 1728183139,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728183139,
+            "outcomes": [
+              {
+                "name": "1. FC Saarbr\u00fccken",
+                "price": 2.1
+              },
+              {
+                "name": "Arminia Bielefeld",
+                "price": 3.15
+              },
+              {
+                "name": "Draw",
+                "price": 3.4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "tabtouch",
+        "title": "TABtouch",
+        "last_update": 1728183140,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728183140,
+            "outcomes": [
+              {
+                "name": "1. FC Saarbr\u00fccken",
+                "price": 2.1
+              },
+              {
+                "name": "Arminia Bielefeld",
+                "price": 3.15
+              },
+              {
+                "name": "Draw",
+                "price": 3.4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "virginbet",
+        "title": "Virgin Bet",
+        "last_update": 1728183139,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728183139,
+            "outcomes": [
+              {
+                "name": "1. FC Saarbr\u00fccken",
+                "price": 2.1
+              },
+              {
+                "name": "Arminia Bielefeld",
+                "price": 3.15
+              },
+              {
+                "name": "Draw",
+                "price": 3.4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "skybet",
+        "title": "Sky Bet",
+        "last_update": 1728183138,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728183138,
+            "outcomes": [
+              {
+                "name": "1. FC Saarbr\u00fccken",
+                "price": 2.1
+              },
+              {
+                "name": "Arminia Bielefeld",
+                "price": 2.9
+              },
+              {
+                "name": "Draw",
+                "price": 3.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betvictor",
+        "title": "Bet Victor",
+        "last_update": 1728183149,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728183149,
+            "outcomes": [
+              {
+                "name": "1. FC Saarbr\u00fccken",
+                "price": 2.1
+              },
+              {
+                "name": "Arminia Bielefeld",
+                "price": 2.9
+              },
+              {
+                "name": "Draw",
+                "price": 3.3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "nordicbet",
+        "title": "Nordic Bet",
+        "last_update": 1728183138,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728183138,
+            "outcomes": [
+              {
+                "name": "1. FC Saarbr\u00fccken",
+                "price": 2.2
+              },
+              {
+                "name": "Arminia Bielefeld",
+                "price": 3.1
+              },
+              {
+                "name": "Draw",
+                "price": 3.4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betsson",
+        "title": "Betsson",
+        "last_update": 1728183139,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728183139,
+            "outcomes": [
+              {
+                "name": "1. FC Saarbr\u00fccken",
+                "price": 2.2
+              },
+              {
+                "name": "Arminia Bielefeld",
+                "price": 3.1
+              },
+              {
+                "name": "Draw",
+                "price": 3.4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betway",
+        "title": "Betway",
+        "last_update": 1728183140,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728183140,
+            "outcomes": [
+              {
+                "name": "1. FC Saarbr\u00fccken",
+                "price": 2.15
+              },
+              {
+                "name": "Arminia Bielefeld",
+                "price": 3.0
+              },
+              {
+                "name": "Draw",
+                "price": 3.3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betfair_ex_eu",
+        "title": "Betfair",
+        "last_update": 1728183139,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728183139,
+            "outcomes": [
+              {
+                "name": "1. FC Saarbr\u00fccken",
+                "price": 2.0
+              },
+              {
+                "name": "Arminia Bielefeld",
+                "price": 2.52
+              },
+              {
+                "name": "Draw",
+                "price": 2.8
+              }
+            ]
+          },
+          {
+            "key": "h2h_lay",
+            "last_update": 1728183139,
+            "outcomes": [
+              {
+                "name": "1. FC Saarbr\u00fccken",
+                "price": 3.25
+              },
+              {
+                "name": "Arminia Bielefeld",
+                "price": 6.0
+              },
+              {
+                "name": "Draw",
+                "price": 4.1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betfair_ex_uk",
+        "title": "Betfair",
+        "last_update": 1728183139,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728183139,
+            "outcomes": [
+              {
+                "name": "1. FC Saarbr\u00fccken",
+                "price": 2.0
+              },
+              {
+                "name": "Arminia Bielefeld",
+                "price": 2.52
+              },
+              {
+                "name": "Draw",
+                "price": 2.8
+              }
+            ]
+          },
+          {
+            "key": "h2h_lay",
+            "last_update": 1728183139,
+            "outcomes": [
+              {
+                "name": "1. FC Saarbr\u00fccken",
+                "price": 3.25
+              },
+              {
+                "name": "Arminia Bielefeld",
+                "price": 6.0
+              },
+              {
+                "name": "Draw",
+                "price": 4.1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betfair_ex_au",
+        "title": "Betfair",
+        "last_update": 1728183142,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728183142,
+            "outcomes": [
+              {
+                "name": "1. FC Saarbr\u00fccken",
+                "price": 2.0
+              },
+              {
+                "name": "Arminia Bielefeld",
+                "price": 2.0
+              },
+              {
+                "name": "Draw",
+                "price": 2.04
+              }
+            ]
+          },
+          {
+            "key": "h2h_lay",
+            "last_update": 1728183142,
+            "outcomes": [
+              {
+                "name": "1. FC Saarbr\u00fccken",
+                "price": 3.6
+              },
+              {
+                "name": "Arminia Bielefeld",
+                "price": 7.8
+              },
+              {
+                "name": "Draw",
+                "price": 4.1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "coolbet",
+        "title": "Coolbet",
+        "last_update": 1728183139,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728183139,
+            "outcomes": [
+              {
+                "name": "1. FC Saarbr\u00fccken",
+                "price": 2.17
+              },
+              {
+                "name": "Arminia Bielefeld",
+                "price": 3.1
+              },
+              {
+                "name": "Draw",
+                "price": 3.4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "tab",
+        "title": "TAB",
+        "last_update": 1728183138,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728183138,
+            "outcomes": [
+              {
+                "name": "1. FC Saarbr\u00fccken",
+                "price": 2.15
+              },
+              {
+                "name": "Arminia Bielefeld",
+                "price": 3.0
+              },
+              {
+                "name": "Draw",
+                "price": 3.3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": 1728183138,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728183138,
+            "outcomes": [
+              {
+                "name": "1. FC Saarbr\u00fccken",
+                "price": 2.12
+              },
+              {
+                "name": "Arminia Bielefeld",
+                "price": 3.1
+              },
+              {
+                "name": "Draw",
+                "price": 3.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": 1728183139,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728183139,
+            "outcomes": [
+              {
+                "name": "1. FC Saarbr\u00fccken",
+                "price": 2.12
+              },
+              {
+                "name": "Arminia Bielefeld",
+                "price": 3.1
+              },
+              {
+                "name": "Draw",
+                "price": 3.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "playup",
+        "title": "PlayUp",
+        "last_update": 1728183139,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728183139,
+            "outcomes": [
+              {
+                "name": "1. FC Saarbr\u00fccken",
+                "price": 2.15
+              },
+              {
+                "name": "Arminia Bielefeld",
+                "price": 2.9
+              },
+              {
+                "name": "Draw",
+                "price": 3.3
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "9fd73e8bf52d9c4618b3c1ccd715a5a9",
+    "sport_key": "soccer_germany_liga3",
+    "sport_title": "3. Liga - Germany",
+    "commence_time": 1728235800,
+    "home_team": "VfL Osnabr\u00fcck",
+    "away_team": "VfB Stuttgart II",
+    "bookmakers": [
+      {
+        "key": "pinnacle",
+        "title": "Pinnacle",
+        "last_update": 1728183138,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728183138,
+            "outcomes": [
+              {
+                "name": "VfB Stuttgart II",
+                "price": 4.84
+              },
+              {
+                "name": "VfL Osnabr\u00fcck",
+                "price": 1.61
+              },
+              {
+                "name": "Draw",
+                "price": 4.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "tipico_de",
+        "title": "Tipico",
+        "last_update": 1728183140,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728183140,
+            "outcomes": [
+              {
+                "name": "VfB Stuttgart II",
+                "price": 4.4
+              },
+              {
+                "name": "VfL Osnabr\u00fcck",
+                "price": 1.62
+              },
+              {
+                "name": "Draw",
+                "price": 4.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": 1728183139,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728183139,
+            "outcomes": [
+              {
+                "name": "VfB Stuttgart II",
+                "price": 4.5
+              },
+              {
+                "name": "VfL Osnabr\u00fcck",
+                "price": 1.53
+              },
+              {
+                "name": "Draw",
+                "price": 4.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "suprabets",
+        "title": "Suprabets",
+        "last_update": 1728182864,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728182864,
+            "outcomes": [
+              {
+                "name": "VfB Stuttgart II",
+                "price": 4.9
+              },
+              {
+                "name": "VfL Osnabr\u00fcck",
+                "price": 1.62
+              },
+              {
+                "name": "Draw",
+                "price": 4.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": 1728183139,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728183139,
+            "outcomes": [
+              {
+                "name": "VfB Stuttgart II",
+                "price": 4.6
+              },
+              {
+                "name": "VfL Osnabr\u00fcck",
+                "price": 1.62
+              },
+              {
+                "name": "Draw",
+                "price": 4.1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "ladbrokes_uk",
+        "title": "Ladbrokes",
+        "last_update": 1728183139,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728183139,
+            "outcomes": [
+              {
+                "name": "VfB Stuttgart II",
+                "price": 4.2
+              },
+              {
+                "name": "VfL Osnabr\u00fcck",
+                "price": 1.6
+              },
+              {
+                "name": "Draw",
+                "price": 3.9
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "neds",
+        "title": "Neds",
+        "last_update": 1728183139,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728183139,
+            "outcomes": [
+              {
+                "name": "VfB Stuttgart II",
+                "price": 4.2
+              },
+              {
+                "name": "VfL Osnabr\u00fcck",
+                "price": 1.6
+              },
+              {
+                "name": "Draw",
+                "price": 3.9
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "ladbrokes_au",
+        "title": "Ladbrokes",
+        "last_update": 1728183140,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728183140,
+            "outcomes": [
+              {
+                "name": "VfB Stuttgart II",
+                "price": 4.2
+              },
+              {
+                "name": "VfL Osnabr\u00fcck",
+                "price": 1.6
+              },
+              {
+                "name": "Draw",
+                "price": 3.9
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "coral",
+        "title": "Coral",
+        "last_update": 1728183138,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728183138,
+            "outcomes": [
+              {
+                "name": "VfB Stuttgart II",
+                "price": 4.2
+              },
+              {
+                "name": "VfL Osnabr\u00fcck",
+                "price": 1.6
+              },
+              {
+                "name": "Draw",
+                "price": 3.9
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betway",
+        "title": "Betway",
+        "last_update": 1728183140,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728183140,
+            "outcomes": [
+              {
+                "name": "VfB Stuttgart II",
+                "price": 4.5
+              },
+              {
+                "name": "VfL Osnabr\u00fcck",
+                "price": 1.57
+              },
+              {
+                "name": "Draw",
+                "price": 4.2
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "skybet",
+        "title": "Sky Bet",
+        "last_update": 1728183138,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728183138,
+            "outcomes": [
+              {
+                "name": "VfB Stuttgart II",
+                "price": 4.5
+              },
+              {
+                "name": "VfL Osnabr\u00fcck",
+                "price": 1.53
+              },
+              {
+                "name": "Draw",
+                "price": 4.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betvictor",
+        "title": "Bet Victor",
+        "last_update": 1728183149,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728183149,
+            "outcomes": [
+              {
+                "name": "VfB Stuttgart II",
+                "price": 4.5
+              },
+              {
+                "name": "VfL Osnabr\u00fcck",
+                "price": 1.55
+              },
+              {
+                "name": "Draw",
+                "price": 4.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "mrgreen",
+        "title": "Mr Green",
+        "last_update": 1728183138,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728183138,
+            "outcomes": [
+              {
+                "name": "VfB Stuttgart II",
+                "price": 4.3
+              },
+              {
+                "name": "VfL Osnabr\u00fcck",
+                "price": 1.62
+              },
+              {
+                "name": "Draw",
+                "price": 4.1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "leovegas",
+        "title": "LeoVegas",
+        "last_update": 1728183138,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728183138,
+            "outcomes": [
+              {
+                "name": "VfB Stuttgart II",
+                "price": 4.2
+              },
+              {
+                "name": "VfL Osnabr\u00fcck",
+                "price": 1.57
+              },
+              {
+                "name": "Draw",
+                "price": 4.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "casumo",
+        "title": "Casumo",
+        "last_update": 1728183138,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728183138,
+            "outcomes": [
+              {
+                "name": "VfB Stuttgart II",
+                "price": 4.3
+              },
+              {
+                "name": "VfL Osnabr\u00fcck",
+                "price": 1.63
+              },
+              {
+                "name": "Draw",
+                "price": 4.1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "livescorebet",
+        "title": "LiveScore Bet",
+        "last_update": 1728183139,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728183139,
+            "outcomes": [
+              {
+                "name": "VfB Stuttgart II",
+                "price": 4.3
+              },
+              {
+                "name": "VfL Osnabr\u00fcck",
+                "price": 1.63
+              },
+              {
+                "name": "Draw",
+                "price": 4.1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "unibet_uk",
+        "title": "Unibet",
+        "last_update": 1728183139,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728183139,
+            "outcomes": [
+              {
+                "name": "VfB Stuttgart II",
+                "price": 4.3
+              },
+              {
+                "name": "VfL Osnabr\u00fcck",
+                "price": 1.63
+              },
+              {
+                "name": "Draw",
+                "price": 4.1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "unibet_eu",
+        "title": "Unibet",
+        "last_update": 1728183139,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728183139,
+            "outcomes": [
+              {
+                "name": "VfB Stuttgart II",
+                "price": 4.3
+              },
+              {
+                "name": "VfL Osnabr\u00fcck",
+                "price": 1.63
+              },
+              {
+                "name": "Draw",
+                "price": 4.1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "livescorebet_eu",
+        "title": "LiveScore Bet (EU)",
+        "last_update": 1728183139,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728183139,
+            "outcomes": [
+              {
+                "name": "VfB Stuttgart II",
+                "price": 4.3
+              },
+              {
+                "name": "VfL Osnabr\u00fcck",
+                "price": 1.63
+              },
+              {
+                "name": "Draw",
+                "price": 4.1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "unibet",
+        "title": "Unibet",
+        "last_update": 1728183138,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728183138,
+            "outcomes": [
+              {
+                "name": "VfB Stuttgart II",
+                "price": 4.3
+              },
+              {
+                "name": "VfL Osnabr\u00fcck",
+                "price": 1.63
+              },
+              {
+                "name": "Draw",
+                "price": 4.1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "grosvenor",
+        "title": "Grosvenor",
+        "last_update": 1728183139,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728183139,
+            "outcomes": [
+              {
+                "name": "VfB Stuttgart II",
+                "price": 4.3
+              },
+              {
+                "name": "VfL Osnabr\u00fcck",
+                "price": 1.63
+              },
+              {
+                "name": "Draw",
+                "price": 4.1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "tabtouch",
+        "title": "TABtouch",
+        "last_update": 1728183140,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728183140,
+            "outcomes": [
+              {
+                "name": "VfB Stuttgart II",
+                "price": 4.3
+              },
+              {
+                "name": "VfL Osnabr\u00fcck",
+                "price": 1.63
+              },
+              {
+                "name": "Draw",
+                "price": 4.1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "virginbet",
+        "title": "Virgin Bet",
+        "last_update": 1728183139,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728183139,
+            "outcomes": [
+              {
+                "name": "VfB Stuttgart II",
+                "price": 4.3
+              },
+              {
+                "name": "VfL Osnabr\u00fcck",
+                "price": 1.63
+              },
+              {
+                "name": "Draw",
+                "price": 4.1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "coolbet",
+        "title": "Coolbet",
+        "last_update": 1728183139,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728183139,
+            "outcomes": [
+              {
+                "name": "VfB Stuttgart II",
+                "price": 4.75
+              },
+              {
+                "name": "VfL Osnabr\u00fcck",
+                "price": 1.6
+              },
+              {
+                "name": "Draw",
+                "price": 4.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betfair_ex_eu",
+        "title": "Betfair",
+        "last_update": 1728183139,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728183139,
+            "outcomes": [
+              {
+                "name": "VfB Stuttgart II",
+                "price": 2.58
+              },
+              {
+                "name": "VfL Osnabr\u00fcck",
+                "price": 1.63
+              },
+              {
+                "name": "Draw",
+                "price": 3.6
+              }
+            ]
+          },
+          {
+            "key": "h2h_lay",
+            "last_update": 1728183139,
+            "outcomes": [
+              {
+                "name": "VfB Stuttgart II",
+                "price": 27.0
+              },
+              {
+                "name": "VfL Osnabr\u00fcck",
+                "price": 2.4
+              },
+              {
+                "name": "Draw",
+                "price": 10.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betfair_ex_uk",
+        "title": "Betfair",
+        "last_update": 1728183139,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728183139,
+            "outcomes": [
+              {
+                "name": "VfB Stuttgart II",
+                "price": 2.58
+              },
+              {
+                "name": "VfL Osnabr\u00fcck",
+                "price": 1.63
+              },
+              {
+                "name": "Draw",
+                "price": 3.6
+              }
+            ]
+          },
+          {
+            "key": "h2h_lay",
+            "last_update": 1728183139,
+            "outcomes": [
+              {
+                "name": "VfB Stuttgart II",
+                "price": 27.0
+              },
+              {
+                "name": "VfL Osnabr\u00fcck",
+                "price": 2.4
+              },
+              {
+                "name": "Draw",
+                "price": 10.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betfair_ex_au",
+        "title": "Betfair",
+        "last_update": 1728183142,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728183142,
+            "outcomes": [
+              {
+                "name": "VfB Stuttgart II",
+                "price": 2.56
+              },
+              {
+                "name": "VfL Osnabr\u00fcck",
+                "price": 1.63
+              },
+              {
+                "name": "Draw",
+                "price": 2.34
+              }
+            ]
+          },
+          {
+            "key": "h2h_lay",
+            "last_update": 1728183142,
+            "outcomes": [
+              {
+                "name": "VfB Stuttgart II",
+                "price": 27.0
+              },
+              {
+                "name": "VfL Osnabr\u00fcck",
+                "price": 2.4
+              },
+              {
+                "name": "Draw",
+                "price": 950.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "tab",
+        "title": "TAB",
+        "last_update": 1728183138,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728183138,
+            "outcomes": [
+              {
+                "name": "VfB Stuttgart II",
+                "price": 4.5
+              },
+              {
+                "name": "VfL Osnabr\u00fcck",
+                "price": 1.58
+              },
+              {
+                "name": "Draw",
+                "price": 4.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": 1728183139,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728183139,
+            "outcomes": [
+              {
+                "name": "VfB Stuttgart II",
+                "price": 4.6
+              },
+              {
+                "name": "VfL Osnabr\u00fcck",
+                "price": 1.6
+              },
+              {
+                "name": "Draw",
+                "price": 4.2
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": 1728183138,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728183138,
+            "outcomes": [
+              {
+                "name": "VfB Stuttgart II",
+                "price": 4.6
+              },
+              {
+                "name": "VfL Osnabr\u00fcck",
+                "price": 1.6
+              },
+              {
+                "name": "Draw",
+                "price": 4.2
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

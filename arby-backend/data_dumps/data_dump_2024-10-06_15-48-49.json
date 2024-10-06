@@ -1,0 +1,4269 @@
+[
+  {
+    "id": "33253587ab91387b138645f365049d87",
+    "sport_key": "basketball_nbl",
+    "sport_title": "NBL",
+    "commence_time": 1728185760,
+    "home_team": "Melbourne United",
+    "away_team": "Cairns Taipans",
+    "bookmakers": [
+      {
+        "key": "coolbet",
+        "title": "Coolbet",
+        "last_update": 1728190004,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728190004,
+            "outcomes": [
+              {
+                "name": "Cairns Taipans",
+                "price": 1.45
+              },
+              {
+                "name": "Melbourne United",
+                "price": 2.63
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betr_au",
+        "title": "Betr",
+        "last_update": 1728189999,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728189999,
+            "outcomes": [
+              {
+                "name": "Cairns Taipans",
+                "price": 1.5
+              },
+              {
+                "name": "Melbourne United",
+                "price": 2.45
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betfair_ex_eu",
+        "title": "Betfair",
+        "last_update": 1728189999,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728189999,
+            "outcomes": [
+              {
+                "name": "Cairns Taipans",
+                "price": 1.71
+              },
+              {
+                "name": "Melbourne United",
+                "price": 2.34
+              }
+            ]
+          },
+          {
+            "key": "h2h_lay",
+            "last_update": 1728189999,
+            "outcomes": [
+              {
+                "name": "Cairns Taipans",
+                "price": 1.74
+              },
+              {
+                "name": "Melbourne United",
+                "price": 2.4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betfair_ex_au",
+        "title": "Betfair",
+        "last_update": 1728189907,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728189907,
+            "outcomes": [
+              {
+                "name": "Cairns Taipans",
+                "price": 1.72
+              },
+              {
+                "name": "Melbourne United",
+                "price": 2.02
+              }
+            ]
+          },
+          {
+            "key": "h2h_lay",
+            "last_update": 1728189907,
+            "outcomes": [
+              {
+                "name": "Cairns Taipans",
+                "price": 1.99
+              },
+              {
+                "name": "Melbourne United",
+                "price": 2.48
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pointsbetau",
+        "title": "PointsBet (AU)",
+        "last_update": 1728189999,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728189999,
+            "outcomes": [
+              {
+                "name": "Cairns Taipans",
+                "price": 1.48
+              },
+              {
+                "name": "Melbourne United",
+                "price": 2.6
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "tab",
+        "title": "TAB",
+        "last_update": 1728189999,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728189999,
+            "outcomes": [
+              {
+                "name": "Cairns Taipans",
+                "price": 1.52
+              },
+              {
+                "name": "Melbourne United",
+                "price": 2.4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "unibet",
+        "title": "Unibet",
+        "last_update": 1728189998,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728189998,
+            "outcomes": [
+              {
+                "name": "Cairns Taipans",
+                "price": 1.5
+              },
+              {
+                "name": "Melbourne United",
+                "price": 2.45
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "tabtouch",
+        "title": "TABtouch",
+        "last_update": 1728190000,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728190000,
+            "outcomes": [
+              {
+                "name": "Cairns Taipans",
+                "price": 1.5
+              },
+              {
+                "name": "Melbourne United",
+                "price": 2.38
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "fa486bfbcf4ebb868ce86607bdbb7edc",
+    "sport_key": "mma_mixed_martial_arts",
+    "sport_title": "MMA",
+    "commence_time": 1728190020,
+    "home_team": "Alex Pereira",
+    "away_team": "Khalil Rountree",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": 1728190012,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728190012,
+            "outcomes": [
+              {
+                "name": "Alex Pereira",
+                "price": 1.24
+              },
+              {
+                "name": "Khalil Rountree",
+                "price": 4.3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": 1728189826,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728189826,
+            "outcomes": [
+              {
+                "name": "Alex Pereira",
+                "price": 1.23
+              },
+              {
+                "name": "Khalil Rountree",
+                "price": 4.3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": 1728189920,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728189920,
+            "outcomes": [
+              {
+                "name": "Alex Pereira",
+                "price": 1.23
+              },
+              {
+                "name": "Khalil Rountree",
+                "price": 4.3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "unibet",
+        "title": "Unibet",
+        "last_update": 1728190014,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728190014,
+            "outcomes": [
+              {
+                "name": "Alex Pereira",
+                "price": 1.2
+              },
+              {
+                "name": "Khalil Rountree",
+                "price": 4.6
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": 1728190013,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728190013,
+            "outcomes": [
+              {
+                "name": "Alex Pereira",
+                "price": 1.2
+              },
+              {
+                "name": "Khalil Rountree",
+                "price": 4.6
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "unibet_eu",
+        "title": "Unibet",
+        "last_update": 1728190014,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728190014,
+            "outcomes": [
+              {
+                "name": "Alex Pereira",
+                "price": 1.2
+              },
+              {
+                "name": "Khalil Rountree",
+                "price": 4.6
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "livescorebet_eu",
+        "title": "LiveScore Bet (EU)",
+        "last_update": 1728190014,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728190014,
+            "outcomes": [
+              {
+                "name": "Alex Pereira",
+                "price": 1.2
+              },
+              {
+                "name": "Khalil Rountree",
+                "price": 4.6
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "unibet_ca",
+        "title": "Unibet",
+        "last_update": 1728190014,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728190014,
+            "outcomes": [
+              {
+                "name": "Alex Pereira",
+                "price": 1.2
+              },
+              {
+                "name": "Khalil Rountree",
+                "price": 4.6
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "tabtouch",
+        "title": "TABtouch",
+        "last_update": 1728190014,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728190014,
+            "outcomes": [
+              {
+                "name": "Alex Pereira",
+                "price": 1.2
+              },
+              {
+                "name": "Khalil Rountree",
+                "price": 4.4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": 1728190013,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728190013,
+            "outcomes": [
+              {
+                "name": "Alex Pereira",
+                "price": 1.22
+              },
+              {
+                "name": "Khalil Rountree",
+                "price": 4.6
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": 1728190013,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728190013,
+            "outcomes": [
+              {
+                "name": "Alex Pereira",
+                "price": 1.2
+              },
+              {
+                "name": "Khalil Rountree",
+                "price": 4.6
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betfair_ex_au",
+        "title": "Betfair",
+        "last_update": 1728190016,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728190016,
+            "outcomes": [
+              {
+                "name": "Alex Pereira",
+                "price": 1.22
+              },
+              {
+                "name": "Khalil Rountree",
+                "price": 5.3
+              }
+            ]
+          },
+          {
+            "key": "h2h_lay",
+            "last_update": 1728190016,
+            "outcomes": [
+              {
+                "name": "Alex Pereira",
+                "price": 1.23
+              },
+              {
+                "name": "Khalil Rountree",
+                "price": 5.4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betfair_ex_eu",
+        "title": "Betfair",
+        "last_update": 1728190014,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728190014,
+            "outcomes": [
+              {
+                "name": "Alex Pereira",
+                "price": 1.23
+              },
+              {
+                "name": "Khalil Rountree",
+                "price": 5.0
+              }
+            ]
+          },
+          {
+            "key": "h2h_lay",
+            "last_update": 1728190014,
+            "outcomes": [
+              {
+                "name": "Alex Pereira",
+                "price": 1.24
+              },
+              {
+                "name": "Khalil Rountree",
+                "price": 5.4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "nordicbet",
+        "title": "Nordic Bet",
+        "last_update": 1728190013,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728190013,
+            "outcomes": [
+              {
+                "name": "Alex Pereira",
+                "price": 1.19
+              },
+              {
+                "name": "Khalil Rountree",
+                "price": 4.45
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betsson",
+        "title": "Betsson",
+        "last_update": 1728190014,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728190014,
+            "outcomes": [
+              {
+                "name": "Alex Pereira",
+                "price": 1.19
+              },
+              {
+                "name": "Khalil Rountree",
+                "price": 4.45
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": 1728189669,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728189669,
+            "outcomes": [
+              {
+                "name": "Alex Pereira",
+                "price": 1.23
+              },
+              {
+                "name": "Khalil Rountree",
+                "price": 4.4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "neds",
+        "title": "Neds",
+        "last_update": 1728190013,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728190013,
+            "outcomes": [
+              {
+                "name": "Alex Pereira",
+                "price": 1.22
+              },
+              {
+                "name": "Khalil Rountree",
+                "price": 4.4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": 1728190013,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728190013,
+            "outcomes": [
+              {
+                "name": "Alex Pereira",
+                "price": 1.24
+              },
+              {
+                "name": "Khalil Rountree",
+                "price": 4.35
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "coolbet",
+        "title": "Coolbet",
+        "last_update": 1728190014,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728190014,
+            "outcomes": [
+              {
+                "name": "Alex Pereira",
+                "price": 1.23
+              },
+              {
+                "name": "Khalil Rountree",
+                "price": 4.45
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "playup",
+        "title": "PlayUp",
+        "last_update": 1728189919,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728189919,
+            "outcomes": [
+              {
+                "name": "Alex Pereira",
+                "price": 1.18
+              },
+              {
+                "name": "Khalil Rountree",
+                "price": 4.9
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": 1728190013,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728190013,
+            "outcomes": [
+              {
+                "name": "Alex Pereira",
+                "price": 1.22
+              },
+              {
+                "name": "Khalil Rountree",
+                "price": 4.4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "ladbrokes_au",
+        "title": "Ladbrokes",
+        "last_update": 1728190014,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728190014,
+            "outcomes": [
+              {
+                "name": "Alex Pereira",
+                "price": 1.22
+              },
+              {
+                "name": "Khalil Rountree",
+                "price": 4.4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pinnacle",
+        "title": "Pinnacle",
+        "last_update": 1728190012,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728190012,
+            "outcomes": [
+              {
+                "name": "Alex Pereira",
+                "price": 1.22
+              },
+              {
+                "name": "Khalil Rountree",
+                "price": 4.6
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betanysports",
+        "title": "BetAnySports",
+        "last_update": 1728190013,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728190013,
+            "outcomes": [
+              {
+                "name": "Alex Pereira",
+                "price": 1.23
+              },
+              {
+                "name": "Khalil Rountree",
+                "price": 3.8
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pointsbetau",
+        "title": "PointsBet (AU)",
+        "last_update": 1728190014,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728190013,
+            "outcomes": [
+              {
+                "name": "Alex Pereira",
+                "price": 1.19
+              },
+              {
+                "name": "Khalil Rountree",
+                "price": 4.6
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betr_au",
+        "title": "Betr",
+        "last_update": 1728190014,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728190014,
+            "outcomes": [
+              {
+                "name": "Alex Pereira",
+                "price": 1.2
+              },
+              {
+                "name": "Khalil Rountree",
+                "price": 4.4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pointsbetca",
+        "title": "PointsBet (CA)",
+        "last_update": 1728190015,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728190015,
+            "outcomes": [
+              {
+                "name": "Alex Pereira",
+                "price": 1.19
+              },
+              {
+                "name": "Khalil Rountree",
+                "price": 4.6
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "824a4646b7c2d0797d4770bd8ef2f564",
+    "sport_key": "baseball_npb",
+    "sport_title": "NPB",
+    "commence_time": 1728189000,
+    "home_team": "Chunichi Dragons",
+    "away_team": "Yokohama DeNA BayStars",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": 1728190083,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728190083,
+            "outcomes": [
+              {
+                "name": "Chunichi Dragons",
+                "price": 1.95
+              },
+              {
+                "name": "Yokohama DeNA BayStars",
+                "price": 1.8
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "sport888",
+        "title": "888sport",
+        "last_update": 1728190083,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728190083,
+            "outcomes": [
+              {
+                "name": "Chunichi Dragons",
+                "price": 1.91
+              },
+              {
+                "name": "Yokohama DeNA BayStars",
+                "price": 1.75
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": 1728190086,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728190086,
+            "outcomes": [
+              {
+                "name": "Chunichi Dragons",
+                "price": 1.98
+              },
+              {
+                "name": "Yokohama DeNA BayStars",
+                "price": 1.81
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "coolbet",
+        "title": "Coolbet",
+        "last_update": 1728190084,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728190084,
+            "outcomes": [
+              {
+                "name": "Chunichi Dragons",
+                "price": 1.94
+              },
+              {
+                "name": "Yokohama DeNA BayStars",
+                "price": 1.77
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pointsbetca",
+        "title": "PointsBet (CA)",
+        "last_update": 1728190084,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728190084,
+            "outcomes": [
+              {
+                "name": "Chunichi Dragons",
+                "price": 1.95
+              },
+              {
+                "name": "Yokohama DeNA BayStars",
+                "price": 1.8
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betclic",
+        "title": "Betclic",
+        "last_update": 1728190084,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728190084,
+            "outcomes": [
+              {
+                "name": "Chunichi Dragons",
+                "price": 1.9
+              },
+              {
+                "name": "Yokohama DeNA BayStars",
+                "price": 1.75
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "nordicbet",
+        "title": "Nordic Bet",
+        "last_update": 1728190083,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728190083,
+            "outcomes": [
+              {
+                "name": "Chunichi Dragons",
+                "price": 1.98
+              },
+              {
+                "name": "Yokohama DeNA BayStars",
+                "price": 1.79
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill",
+        "title": "William Hill",
+        "last_update": 1728190084,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728190084,
+            "outcomes": [
+              {
+                "name": "Chunichi Dragons",
+                "price": 2.17
+              },
+              {
+                "name": "Yokohama DeNA BayStars",
+                "price": 1.72
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": 1728190084,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728190084,
+            "outcomes": [
+              {
+                "name": "Chunichi Dragons",
+                "price": 1.8
+              },
+              {
+                "name": "Yokohama DeNA BayStars",
+                "price": 1.95
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "tipico_de",
+        "title": "Tipico",
+        "last_update": 1728190085,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728190085,
+            "outcomes": [
+              {
+                "name": "Chunichi Dragons",
+                "price": 1.95
+              },
+              {
+                "name": "Yokohama DeNA BayStars",
+                "price": 1.75
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": 1728190083,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728190083,
+            "outcomes": [
+              {
+                "name": "Chunichi Dragons",
+                "price": 2.05
+              },
+              {
+                "name": "Yokohama DeNA BayStars",
+                "price": 1.74
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "042e83fe0114ac1dfc09a612568cfe7f",
+    "sport_key": "soccer_mexico_ligamx",
+    "sport_title": "Liga MX",
+    "commence_time": 1728184200,
+    "home_team": "Le\u00f3n",
+    "away_team": "Am\u00e9rica",
+    "bookmakers": [
+      {
+        "key": "pinnacle",
+        "title": "Pinnacle",
+        "last_update": 1728190063,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728190063,
+            "outcomes": [
+              {
+                "name": "Am\u00e9rica",
+                "price": 5.78
+              },
+              {
+                "name": "Le\u00f3n",
+                "price": 1.74
+              },
+              {
+                "name": "Draw",
+                "price": 3.18
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betclic",
+        "title": "Betclic",
+        "last_update": 1728190063,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728190063,
+            "outcomes": [
+              {
+                "name": "Am\u00e9rica",
+                "price": 11.5
+              },
+              {
+                "name": "Le\u00f3n",
+                "price": 1.42
+              },
+              {
+                "name": "Draw",
+                "price": 3.4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": 1728189975,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728189975,
+            "outcomes": [
+              {
+                "name": "Am\u00e9rica",
+                "price": 13.0
+              },
+              {
+                "name": "Le\u00f3n",
+                "price": 1.4
+              },
+              {
+                "name": "Draw",
+                "price": 3.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "mybookieag",
+        "title": "MyBookie.ag",
+        "last_update": 1728189339,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728189339,
+            "outcomes": [
+              {
+                "name": "Am\u00e9rica",
+                "price": 4.6
+              },
+              {
+                "name": "Le\u00f3n",
+                "price": 1.75
+              },
+              {
+                "name": "Draw",
+                "price": 3.1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "tipico_de",
+        "title": "Tipico",
+        "last_update": 1728190065,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728190065,
+            "outcomes": [
+              {
+                "name": "Am\u00e9rica",
+                "price": 11.0
+              },
+              {
+                "name": "Le\u00f3n",
+                "price": 1.4
+              },
+              {
+                "name": "Draw",
+                "price": 3.6
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "coolbet",
+        "title": "Coolbet",
+        "last_update": 1728189976,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728189976,
+            "outcomes": [
+              {
+                "name": "Am\u00e9rica",
+                "price": 11.0
+              },
+              {
+                "name": "Le\u00f3n",
+                "price": 1.44
+              },
+              {
+                "name": "Draw",
+                "price": 3.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "nordicbet",
+        "title": "Nordic Bet",
+        "last_update": 1728189975,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728189975,
+            "outcomes": [
+              {
+                "name": "Am\u00e9rica",
+                "price": 11.0
+              },
+              {
+                "name": "Le\u00f3n",
+                "price": 1.44
+              },
+              {
+                "name": "Draw",
+                "price": 3.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betsson",
+        "title": "Betsson",
+        "last_update": 1728189976,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728189976,
+            "outcomes": [
+              {
+                "name": "Am\u00e9rica",
+                "price": 11.0
+              },
+              {
+                "name": "Le\u00f3n",
+                "price": 1.44
+              },
+              {
+                "name": "Draw",
+                "price": 3.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": 1728189975,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728189975,
+            "outcomes": [
+              {
+                "name": "Am\u00e9rica",
+                "price": 10.5
+              },
+              {
+                "name": "Le\u00f3n",
+                "price": 1.43
+              },
+              {
+                "name": "Draw",
+                "price": 3.6
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "sport888",
+        "title": "888sport",
+        "last_update": 1728189975,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728189975,
+            "outcomes": [
+              {
+                "name": "Am\u00e9rica",
+                "price": 10.0
+              },
+              {
+                "name": "Le\u00f3n",
+                "price": 1.44
+              },
+              {
+                "name": "Draw",
+                "price": 3.2
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betfair_ex_eu",
+        "title": "Betfair",
+        "last_update": 1728190064,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728190064,
+            "outcomes": [
+              {
+                "name": "Am\u00e9rica",
+                "price": 12.0
+              },
+              {
+                "name": "Le\u00f3n",
+                "price": 1.51
+              },
+              {
+                "name": "Draw",
+                "price": 3.6
+              }
+            ]
+          },
+          {
+            "key": "h2h_lay",
+            "last_update": 1728190064,
+            "outcomes": [
+              {
+                "name": "Am\u00e9rica",
+                "price": 14.0
+              },
+              {
+                "name": "Le\u00f3n",
+                "price": 1.55
+              },
+              {
+                "name": "Draw",
+                "price": 3.8
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betfair_ex_au",
+        "title": "Betfair",
+        "last_update": 1728190067,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728190067,
+            "outcomes": [
+              {
+                "name": "Am\u00e9rica",
+                "price": 13.5
+              },
+              {
+                "name": "Le\u00f3n",
+                "price": 1.5
+              },
+              {
+                "name": "Draw",
+                "price": 3.65
+              }
+            ]
+          },
+          {
+            "key": "h2h_lay",
+            "last_update": 1728190067,
+            "outcomes": [
+              {
+                "name": "Am\u00e9rica",
+                "price": 15.0
+              },
+              {
+                "name": "Le\u00f3n",
+                "price": 1.52
+              },
+              {
+                "name": "Draw",
+                "price": 3.85
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "unibet_eu",
+        "title": "Unibet",
+        "last_update": 1728190064,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728190064,
+            "outcomes": [
+              {
+                "name": "Am\u00e9rica",
+                "price": 11.5
+              },
+              {
+                "name": "Le\u00f3n",
+                "price": 1.41
+              },
+              {
+                "name": "Draw",
+                "price": 3.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "livescorebet_eu",
+        "title": "LiveScore Bet (EU)",
+        "last_update": 1728189976,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728189976,
+            "outcomes": [
+              {
+                "name": "Am\u00e9rica",
+                "price": 11.5
+              },
+              {
+                "name": "Le\u00f3n",
+                "price": 1.41
+              },
+              {
+                "name": "Draw",
+                "price": 3.4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "unibet_ca",
+        "title": "Unibet",
+        "last_update": 1728190064,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728190064,
+            "outcomes": [
+              {
+                "name": "Am\u00e9rica",
+                "price": 11.5
+              },
+              {
+                "name": "Le\u00f3n",
+                "price": 1.41
+              },
+              {
+                "name": "Draw",
+                "price": 3.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "unibet",
+        "title": "Unibet",
+        "last_update": 1728190063,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728190063,
+            "outcomes": [
+              {
+                "name": "Am\u00e9rica",
+                "price": 11.5
+              },
+              {
+                "name": "Le\u00f3n",
+                "price": 1.41
+              },
+              {
+                "name": "Draw",
+                "price": 3.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "tabtouch",
+        "title": "TABtouch",
+        "last_update": 1728190068,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728190068,
+            "outcomes": [
+              {
+                "name": "Am\u00e9rica",
+                "price": 13.0
+              },
+              {
+                "name": "Le\u00f3n",
+                "price": 1.38
+              },
+              {
+                "name": "Draw",
+                "price": 3.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "suprabets",
+        "title": "Suprabets",
+        "last_update": 1728189879,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728189879,
+            "outcomes": [
+              {
+                "name": "Am\u00e9rica",
+                "price": 8.5
+              },
+              {
+                "name": "Le\u00f3n",
+                "price": 1.62
+              },
+              {
+                "name": "Draw",
+                "price": 3.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "tab",
+        "title": "TAB",
+        "last_update": 1728190064,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728190064,
+            "outcomes": [
+              {
+                "name": "Am\u00e9rica",
+                "price": 11.0
+              },
+              {
+                "name": "Le\u00f3n",
+                "price": 1.42
+              },
+              {
+                "name": "Draw",
+                "price": 3.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "92b0d7ac257a5c3bfb0673deff7fc2df",
+    "sport_key": "tennis_atp_shanghai_masters",
+    "sport_title": "ATP Shanghai Masters",
+    "commence_time": 1728189000,
+    "home_team": "Flavio Cobolli",
+    "away_team": "Stan Wawrinka",
+    "bookmakers": [
+      {
+        "key": "betfair_ex_eu",
+        "title": "Betfair",
+        "last_update": 1728190088,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728190088,
+            "outcomes": [
+              {
+                "name": "Flavio Cobolli",
+                "price": 1.43
+              },
+              {
+                "name": "Stan Wawrinka",
+                "price": 3.2
+              }
+            ]
+          },
+          {
+            "key": "h2h_lay",
+            "last_update": 1728190088,
+            "outcomes": [
+              {
+                "name": "Flavio Cobolli",
+                "price": 1.45
+              },
+              {
+                "name": "Stan Wawrinka",
+                "price": 3.35
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betfair_ex_au",
+        "title": "Betfair",
+        "last_update": 1728190092,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728190092,
+            "outcomes": [
+              {
+                "name": "Flavio Cobolli",
+                "price": 1.43
+              },
+              {
+                "name": "Stan Wawrinka",
+                "price": 3.2
+              }
+            ]
+          },
+          {
+            "key": "h2h_lay",
+            "last_update": 1728190092,
+            "outcomes": [
+              {
+                "name": "Flavio Cobolli",
+                "price": 1.45
+              },
+              {
+                "name": "Stan Wawrinka",
+                "price": 3.35
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pinnacle",
+        "title": "Pinnacle",
+        "last_update": 1728189814,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728189814,
+            "outcomes": [
+              {
+                "name": "Flavio Cobolli",
+                "price": 1.43
+              },
+              {
+                "name": "Stan Wawrinka",
+                "price": 3.04
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "matchbook",
+        "title": "Matchbook",
+        "last_update": 1728190086,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728190086,
+            "outcomes": [
+              {
+                "name": "Flavio Cobolli",
+                "price": 1.43
+              },
+              {
+                "name": "Stan Wawrinka",
+                "price": 3.2
+              }
+            ]
+          },
+          {
+            "key": "h2h_lay",
+            "last_update": 1728190086,
+            "outcomes": [
+              {
+                "name": "Flavio Cobolli",
+                "price": 1.46
+              },
+              {
+                "name": "Stan Wawrinka",
+                "price": 3.35
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": 1728190089,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728190089,
+            "outcomes": [
+              {
+                "name": "Flavio Cobolli",
+                "price": 1.42
+              },
+              {
+                "name": "Stan Wawrinka",
+                "price": 2.99
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": 1728190086,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728190086,
+            "outcomes": [
+              {
+                "name": "Flavio Cobolli",
+                "price": 1.42
+              },
+              {
+                "name": "Stan Wawrinka",
+                "price": 2.99
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": 1728190086,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728190086,
+            "outcomes": [
+              {
+                "name": "Flavio Cobolli",
+                "price": 1.42
+              },
+              {
+                "name": "Stan Wawrinka",
+                "price": 2.85
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "neds",
+        "title": "Neds",
+        "last_update": 1728189815,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728189815,
+            "outcomes": [
+              {
+                "name": "Flavio Cobolli",
+                "price": 1.4
+              },
+              {
+                "name": "Stan Wawrinka",
+                "price": 2.88
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "tab",
+        "title": "TAB",
+        "last_update": 1728190086,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728190086,
+            "outcomes": [
+              {
+                "name": "Flavio Cobolli",
+                "price": 1.38
+              },
+              {
+                "name": "Stan Wawrinka",
+                "price": 2.9
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "topsport",
+        "title": "TopSport",
+        "last_update": 1728190088,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728190088,
+            "outcomes": [
+              {
+                "name": "Flavio Cobolli",
+                "price": 1.41
+              },
+              {
+                "name": "Stan Wawrinka",
+                "price": 2.94
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "ladbrokes_au",
+        "title": "Ladbrokes",
+        "last_update": 1728189816,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728189816,
+            "outcomes": [
+              {
+                "name": "Flavio Cobolli",
+                "price": 1.4
+              },
+              {
+                "name": "Stan Wawrinka",
+                "price": 2.88
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": 1728190087,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728190087,
+            "outcomes": [
+              {
+                "name": "Flavio Cobolli",
+                "price": 1.31
+              },
+              {
+                "name": "Stan Wawrinka",
+                "price": 3.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": 1728189814,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728189814,
+            "outcomes": [
+              {
+                "name": "Flavio Cobolli",
+                "price": 1.4
+              },
+              {
+                "name": "Stan Wawrinka",
+                "price": 2.9
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": 1728189546,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728189546,
+            "outcomes": [
+              {
+                "name": "Flavio Cobolli",
+                "price": 1.4
+              },
+              {
+                "name": "Stan Wawrinka",
+                "price": 3.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betr_au",
+        "title": "Betr",
+        "last_update": 1728190088,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728190088,
+            "outcomes": [
+              {
+                "name": "Flavio Cobolli",
+                "price": 1.4
+              },
+              {
+                "name": "Stan Wawrinka",
+                "price": 2.9
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "coolbet",
+        "title": "Coolbet",
+        "last_update": 1728190088,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728190088,
+            "outcomes": [
+              {
+                "name": "Flavio Cobolli",
+                "price": 1.42
+              },
+              {
+                "name": "Stan Wawrinka",
+                "price": 2.98
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill",
+        "title": "William Hill",
+        "last_update": 1728190086,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728190086,
+            "outcomes": [
+              {
+                "name": "Flavio Cobolli",
+                "price": 1.44
+              },
+              {
+                "name": "Stan Wawrinka",
+                "price": 2.75
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "playup",
+        "title": "PlayUp",
+        "last_update": 1728190087,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728190087,
+            "outcomes": [
+              {
+                "name": "Flavio Cobolli",
+                "price": 1.4
+              },
+              {
+                "name": "Stan Wawrinka",
+                "price": 2.9
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": 1728189546,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728189546,
+            "outcomes": [
+              {
+                "name": "Flavio Cobolli",
+                "price": 1.36
+              },
+              {
+                "name": "Stan Wawrinka",
+                "price": 3.2
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "174ddbb30b430bece3d8f41f87ce3049",
+    "sport_key": "tennis_atp_shanghai_masters",
+    "sport_title": "ATP Shanghai Masters",
+    "commence_time": 1728189000,
+    "home_team": "Jordan Thompson",
+    "away_team": "Tallon Griekspoor",
+    "bookmakers": [
+      {
+        "key": "betfair_ex_eu",
+        "title": "Betfair",
+        "last_update": 1728190088,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728190088,
+            "outcomes": [
+              {
+                "name": "Jordan Thompson",
+                "price": 1.76
+              },
+              {
+                "name": "Tallon Griekspoor",
+                "price": 2.26
+              }
+            ]
+          },
+          {
+            "key": "h2h_lay",
+            "last_update": 1728190088,
+            "outcomes": [
+              {
+                "name": "Jordan Thompson",
+                "price": 1.8
+              },
+              {
+                "name": "Tallon Griekspoor",
+                "price": 2.3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betfair_ex_au",
+        "title": "Betfair",
+        "last_update": 1728190092,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728190092,
+            "outcomes": [
+              {
+                "name": "Jordan Thompson",
+                "price": 1.76
+              },
+              {
+                "name": "Tallon Griekspoor",
+                "price": 2.26
+              }
+            ]
+          },
+          {
+            "key": "h2h_lay",
+            "last_update": 1728190092,
+            "outcomes": [
+              {
+                "name": "Jordan Thompson",
+                "price": 1.8
+              },
+              {
+                "name": "Tallon Griekspoor",
+                "price": 2.3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pinnacle",
+        "title": "Pinnacle",
+        "last_update": 1728189814,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728189814,
+            "outcomes": [
+              {
+                "name": "Jordan Thompson",
+                "price": 1.75
+              },
+              {
+                "name": "Tallon Griekspoor",
+                "price": 2.18
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "matchbook",
+        "title": "Matchbook",
+        "last_update": 1728190086,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728190086,
+            "outcomes": [
+              {
+                "name": "Jordan Thompson",
+                "price": 1.76
+              },
+              {
+                "name": "Tallon Griekspoor",
+                "price": 2.24
+              }
+            ]
+          },
+          {
+            "key": "h2h_lay",
+            "last_update": 1728190086,
+            "outcomes": [
+              {
+                "name": "Jordan Thompson",
+                "price": 1.81
+              },
+              {
+                "name": "Tallon Griekspoor",
+                "price": 2.3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": 1728190089,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728190089,
+            "outcomes": [
+              {
+                "name": "Jordan Thompson",
+                "price": 1.73
+              },
+              {
+                "name": "Tallon Griekspoor",
+                "price": 2.17
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": 1728190086,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728190086,
+            "outcomes": [
+              {
+                "name": "Jordan Thompson",
+                "price": 1.73
+              },
+              {
+                "name": "Tallon Griekspoor",
+                "price": 2.17
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": 1728190086,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728190086,
+            "outcomes": [
+              {
+                "name": "Jordan Thompson",
+                "price": 1.67
+              },
+              {
+                "name": "Tallon Griekspoor",
+                "price": 2.1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": 1728189546,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728189546,
+            "outcomes": [
+              {
+                "name": "Jordan Thompson",
+                "price": 1.75
+              },
+              {
+                "name": "Tallon Griekspoor",
+                "price": 2.12
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "neds",
+        "title": "Neds",
+        "last_update": 1728189815,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728189815,
+            "outcomes": [
+              {
+                "name": "Jordan Thompson",
+                "price": 1.73
+              },
+              {
+                "name": "Tallon Griekspoor",
+                "price": 2.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "tab",
+        "title": "TAB",
+        "last_update": 1728190086,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728190086,
+            "outcomes": [
+              {
+                "name": "Jordan Thompson",
+                "price": 1.7
+              },
+              {
+                "name": "Tallon Griekspoor",
+                "price": 2.1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "topsport",
+        "title": "TopSport",
+        "last_update": 1728190088,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728190088,
+            "outcomes": [
+              {
+                "name": "Jordan Thompson",
+                "price": 1.72
+              },
+              {
+                "name": "Tallon Griekspoor",
+                "price": 2.13
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "ladbrokes_au",
+        "title": "Ladbrokes",
+        "last_update": 1728189816,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728189816,
+            "outcomes": [
+              {
+                "name": "Jordan Thompson",
+                "price": 1.73
+              },
+              {
+                "name": "Tallon Griekspoor",
+                "price": 2.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": 1728190087,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728190087,
+            "outcomes": [
+              {
+                "name": "Jordan Thompson",
+                "price": 1.69
+              },
+              {
+                "name": "Tallon Griekspoor",
+                "price": 2.1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": 1728189814,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728189814,
+            "outcomes": [
+              {
+                "name": "Jordan Thompson",
+                "price": 1.74
+              },
+              {
+                "name": "Tallon Griekspoor",
+                "price": 2.05
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": 1728189546,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728189546,
+            "outcomes": [
+              {
+                "name": "Jordan Thompson",
+                "price": 1.71
+              },
+              {
+                "name": "Tallon Griekspoor",
+                "price": 2.1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betr_au",
+        "title": "Betr",
+        "last_update": 1728190088,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728190088,
+            "outcomes": [
+              {
+                "name": "Jordan Thompson",
+                "price": 1.72
+              },
+              {
+                "name": "Tallon Griekspoor",
+                "price": 2.1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "coolbet",
+        "title": "Coolbet",
+        "last_update": 1728190088,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728190088,
+            "outcomes": [
+              {
+                "name": "Jordan Thompson",
+                "price": 1.75
+              },
+              {
+                "name": "Tallon Griekspoor",
+                "price": 2.13
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill",
+        "title": "William Hill",
+        "last_update": 1728190086,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728190086,
+            "outcomes": [
+              {
+                "name": "Jordan Thompson",
+                "price": 1.73
+              },
+              {
+                "name": "Tallon Griekspoor",
+                "price": 2.1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "playup",
+        "title": "PlayUp",
+        "last_update": 1728190087,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728190087,
+            "outcomes": [
+              {
+                "name": "Jordan Thompson",
+                "price": 1.7
+              },
+              {
+                "name": "Tallon Griekspoor",
+                "price": 2.12
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "37dd8f164c8b8ea2c1252ed2dfce87dc",
+    "sport_key": "tennis_atp_shanghai_masters",
+    "sport_title": "ATP Shanghai Masters",
+    "commence_time": 1728189420,
+    "home_team": "Matteo Arnaldi",
+    "away_team": "Daniil Medvedev",
+    "bookmakers": [
+      {
+        "key": "unibet",
+        "title": "Unibet",
+        "last_update": 1728190086,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728190086,
+            "outcomes": [
+              {
+                "name": "Daniil Medvedev",
+                "price": 1.11
+              },
+              {
+                "name": "Matteo Arnaldi",
+                "price": 6.4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betfair_ex_eu",
+        "title": "Betfair",
+        "last_update": 1728190088,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728190088,
+            "outcomes": [
+              {
+                "name": "Daniil Medvedev",
+                "price": 1.11
+              },
+              {
+                "name": "Matteo Arnaldi",
+                "price": 6.8
+              }
+            ]
+          },
+          {
+            "key": "h2h_lay",
+            "last_update": 1728190088,
+            "outcomes": [
+              {
+                "name": "Daniil Medvedev",
+                "price": 1.17
+              },
+              {
+                "name": "Matteo Arnaldi",
+                "price": 9.6
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betfair_ex_au",
+        "title": "Betfair",
+        "last_update": 1728190092,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728190092,
+            "outcomes": [
+              {
+                "name": "Daniil Medvedev",
+                "price": 1.11
+              },
+              {
+                "name": "Matteo Arnaldi",
+                "price": 9.6
+              }
+            ]
+          },
+          {
+            "key": "h2h_lay",
+            "last_update": 1728190092,
+            "outcomes": [
+              {
+                "name": "Daniil Medvedev",
+                "price": 1.12
+              },
+              {
+                "name": "Matteo Arnaldi",
+                "price": 10.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pinnacle",
+        "title": "Pinnacle",
+        "last_update": 1728189814,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728189814,
+            "outcomes": [
+              {
+                "name": "Daniil Medvedev",
+                "price": 1.19
+              },
+              {
+                "name": "Matteo Arnaldi",
+                "price": 5.45
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "nordicbet",
+        "title": "Nordic Bet",
+        "last_update": 1728190086,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728190086,
+            "outcomes": [
+              {
+                "name": "Daniil Medvedev",
+                "price": 1.09
+              },
+              {
+                "name": "Matteo Arnaldi",
+                "price": 6.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "unibet_eu",
+        "title": "Unibet",
+        "last_update": 1728190087,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728190087,
+            "outcomes": [
+              {
+                "name": "Daniil Medvedev",
+                "price": 1.08
+              },
+              {
+                "name": "Matteo Arnaldi",
+                "price": 8.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "unibet_ca",
+        "title": "Unibet",
+        "last_update": 1728190088,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728190088,
+            "outcomes": [
+              {
+                "name": "Daniil Medvedev",
+                "price": 1.08
+              },
+              {
+                "name": "Matteo Arnaldi",
+                "price": 8.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": 1728189816,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728189816,
+            "outcomes": [
+              {
+                "name": "Daniil Medvedev",
+                "price": 1.17
+              },
+              {
+                "name": "Matteo Arnaldi",
+                "price": 5.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": 1728189814,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728189814,
+            "outcomes": [
+              {
+                "name": "Daniil Medvedev",
+                "price": 1.17
+              },
+              {
+                "name": "Matteo Arnaldi",
+                "price": 5.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": 1728190086,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728190086,
+            "outcomes": [
+              {
+                "name": "Daniil Medvedev",
+                "price": 1.08
+              },
+              {
+                "name": "Matteo Arnaldi",
+                "price": 7.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "livescorebet_eu",
+        "title": "LiveScore Bet (EU)",
+        "last_update": 1728190088,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728190088,
+            "outcomes": [
+              {
+                "name": "Daniil Medvedev",
+                "price": 1.08
+              },
+              {
+                "name": "Matteo Arnaldi",
+                "price": 7.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": 1728190086,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728190086,
+            "outcomes": [
+              {
+                "name": "Daniil Medvedev",
+                "price": 1.11
+              },
+              {
+                "name": "Matteo Arnaldi",
+                "price": 7.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": 1728190087,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728190087,
+            "outcomes": [
+              {
+                "name": "Daniil Medvedev",
+                "price": 1.08
+              },
+              {
+                "name": "Matteo Arnaldi",
+                "price": 8.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "neds",
+        "title": "Neds",
+        "last_update": 1728189456,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728189455,
+            "outcomes": [
+              {
+                "name": "Daniil Medvedev",
+                "price": 1.18
+              },
+              {
+                "name": "Matteo Arnaldi",
+                "price": 4.6
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "tab",
+        "title": "TAB",
+        "last_update": 1728190086,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728190086,
+            "outcomes": [
+              {
+                "name": "Daniil Medvedev",
+                "price": 1.09
+              },
+              {
+                "name": "Matteo Arnaldi",
+                "price": 6.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "topsport",
+        "title": "TopSport",
+        "last_update": 1728189457,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728189457,
+            "outcomes": [
+              {
+                "name": "Daniil Medvedev",
+                "price": 1.17
+              },
+              {
+                "name": "Matteo Arnaldi",
+                "price": 5.2
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "ladbrokes_au",
+        "title": "Ladbrokes",
+        "last_update": 1728189457,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728189457,
+            "outcomes": [
+              {
+                "name": "Daniil Medvedev",
+                "price": 1.18
+              },
+              {
+                "name": "Matteo Arnaldi",
+                "price": 4.6
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "sportsbet",
+        "title": "SportsBet",
+        "last_update": 1728189635,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728189635,
+            "outcomes": [
+              {
+                "name": "Daniil Medvedev",
+                "price": 1.14
+              },
+              {
+                "name": "Matteo Arnaldi",
+                "price": 5.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "tabtouch",
+        "title": "TABtouch",
+        "last_update": 1728190088,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728190088,
+            "outcomes": [
+              {
+                "name": "Daniil Medvedev",
+                "price": 1.08
+              },
+              {
+                "name": "Matteo Arnaldi",
+                "price": 7.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": 1728190087,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728190087,
+            "outcomes": [
+              {
+                "name": "Daniil Medvedev",
+                "price": 1.17
+              },
+              {
+                "name": "Matteo Arnaldi",
+                "price": 5.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": 1728190086,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728190086,
+            "outcomes": [
+              {
+                "name": "Daniil Medvedev",
+                "price": 1.07
+              },
+              {
+                "name": "Matteo Arnaldi",
+                "price": 7.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betsson",
+        "title": "Betsson",
+        "last_update": 1728190087,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728190087,
+            "outcomes": [
+              {
+                "name": "Daniil Medvedev",
+                "price": 1.09
+              },
+              {
+                "name": "Matteo Arnaldi",
+                "price": 6.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betr_au",
+        "title": "Betr",
+        "last_update": 1728190088,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728190088,
+            "outcomes": [
+              {
+                "name": "Daniil Medvedev",
+                "price": 1.09
+              },
+              {
+                "name": "Matteo Arnaldi",
+                "price": 6.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "coolbet",
+        "title": "Coolbet",
+        "last_update": 1728190088,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728190088,
+            "outcomes": [
+              {
+                "name": "Daniil Medvedev",
+                "price": 1.1
+              },
+              {
+                "name": "Matteo Arnaldi",
+                "price": 7.1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "sport888",
+        "title": "888sport",
+        "last_update": 1728190086,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728190086,
+            "outcomes": [
+              {
+                "name": "Daniil Medvedev",
+                "price": 1.06
+              },
+              {
+                "name": "Matteo Arnaldi",
+                "price": 7.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill",
+        "title": "William Hill",
+        "last_update": 1728189363,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728189363,
+            "outcomes": [
+              {
+                "name": "Daniil Medvedev",
+                "price": 1.2
+              },
+              {
+                "name": "Matteo Arnaldi",
+                "price": 4.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "playup",
+        "title": "PlayUp",
+        "last_update": 1728189456,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728189456,
+            "outcomes": [
+              {
+                "name": "Daniil Medvedev",
+                "price": 1.16
+              },
+              {
+                "name": "Matteo Arnaldi",
+                "price": 5.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "matchbook",
+        "title": "Matchbook",
+        "last_update": 1728190086,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728190086,
+            "outcomes": [
+              {
+                "name": "Daniil Medvedev",
+                "price": 1.1
+              },
+              {
+                "name": "Matteo Arnaldi",
+                "price": 9.2
+              }
+            ]
+          },
+          {
+            "key": "h2h_lay",
+            "last_update": 1728190086,
+            "outcomes": [
+              {
+                "name": "Daniil Medvedev",
+                "price": 1.13
+              },
+              {
+                "name": "Matteo Arnaldi",
+                "price": 10.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": 1728189546,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728189546,
+            "outcomes": [
+              {
+                "name": "Daniil Medvedev",
+                "price": 1.16
+              },
+              {
+                "name": "Matteo Arnaldi",
+                "price": 5.25
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "dcda2fe9353cab43ee4dd367a0e5eb47",
+    "sport_key": "soccer_usa_mls",
+    "sport_title": "MLS",
+    "commence_time": 1728182520,
+    "home_team": "LA Galaxy",
+    "away_team": "Austin FC",
+    "bookmakers": [
+      {
+        "key": "sport888",
+        "title": "888sport",
+        "last_update": 1728189939,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728189939,
+            "outcomes": [
+              {
+                "name": "Austin FC",
+                "price": 1001.0
+              },
+              {
+                "name": "LA Galaxy",
+                "price": 1.0
+              },
+              {
+                "name": "Draw",
+                "price": 34.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": 1728189577,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728189577,
+            "outcomes": [
+              {
+                "name": "Austin FC",
+                "price": 101.0
+              },
+              {
+                "name": "LA Galaxy",
+                "price": 1.05
+              },
+              {
+                "name": "Draw",
+                "price": 10.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betfair_ex_au",
+        "title": "Betfair",
+        "last_update": 1728189943,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728189943,
+            "outcomes": [
+              {
+                "name": "Austin FC",
+                "price": 120.0
+              },
+              {
+                "name": "LA Galaxy",
+                "price": 1.05
+              },
+              {
+                "name": "Draw",
+                "price": 12.0
+              }
+            ]
+          },
+          {
+            "key": "h2h_lay",
+            "last_update": 1728189943,
+            "outcomes": [
+              {
+                "name": "Austin FC",
+                "price": 1000.0
+              },
+              {
+                "name": "LA Galaxy",
+                "price": 1.06
+              },
+              {
+                "name": "Draw",
+                "price": 42.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betfair_ex_eu",
+        "title": "Betfair",
+        "last_update": 1728189846,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728189846,
+            "outcomes": [
+              {
+                "name": "Austin FC",
+                "price": 19.0
+              },
+              {
+                "name": "LA Galaxy",
+                "price": 1.05
+              },
+              {
+                "name": "Draw",
+                "price": 10.0
+              }
+            ]
+          },
+          {
+            "key": "h2h_lay",
+            "last_update": 1728189846,
+            "outcomes": [
+              {
+                "name": "Austin FC",
+                "price": 1000.0
+              },
+              {
+                "name": "LA Galaxy",
+                "price": 1.11
+              },
+              {
+                "name": "Draw",
+                "price": 50.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "suprabets",
+        "title": "Suprabets",
+        "last_update": 1728189755,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728189755,
+            "outcomes": [
+              {
+                "name": "Austin FC",
+                "price": 145.0
+              },
+              {
+                "name": "LA Galaxy",
+                "price": 1.08
+              },
+              {
+                "name": "Draw",
+                "price": 11.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": 1728189487,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728189487,
+            "outcomes": [
+              {
+                "name": "Austin FC",
+                "price": 41.0
+              },
+              {
+                "name": "LA Galaxy",
+                "price": 1.07
+              },
+              {
+                "name": "Draw",
+                "price": 8.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": 1728189756,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728189756,
+            "outcomes": [
+              {
+                "name": "Austin FC",
+                "price": 126.0
+              },
+              {
+                "name": "LA Galaxy",
+                "price": 1.08
+              },
+              {
+                "name": "Draw",
+                "price": 7.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "nordicbet",
+        "title": "Nordic Bet",
+        "last_update": 1728189939,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728189939,
+            "outcomes": [
+              {
+                "name": "Austin FC",
+                "price": 81.0
+              },
+              {
+                "name": "LA Galaxy",
+                "price": 1.0
+              },
+              {
+                "name": "Draw",
+                "price": 17.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betsson",
+        "title": "Betsson",
+        "last_update": 1728189940,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728189940,
+            "outcomes": [
+              {
+                "name": "Austin FC",
+                "price": 81.0
+              },
+              {
+                "name": "LA Galaxy",
+                "price": 1.0
+              },
+              {
+                "name": "Draw",
+                "price": 17.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "coolbet",
+        "title": "Coolbet",
+        "last_update": 1728189940,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728189940,
+            "outcomes": [
+              {
+                "name": "Austin FC",
+                "price": 125.0
+              },
+              {
+                "name": "LA Galaxy",
+                "price": 1.0
+              },
+              {
+                "name": "Draw",
+                "price": 18.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "tab",
+        "title": "TAB",
+        "last_update": 1728189306,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728189306,
+            "outcomes": [
+              {
+                "name": "Austin FC",
+                "price": 51.0
+              },
+              {
+                "name": "LA Galaxy",
+                "price": 1.08
+              },
+              {
+                "name": "Draw",
+                "price": 8.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pointsbetca",
+        "title": "PointsBet (CA)",
+        "last_update": 1728190118,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728190118,
+            "outcomes": [
+              {
+                "name": "Austin FC",
+                "price": 1001.0
+              },
+              {
+                "name": "LA Galaxy",
+                "price": 1.01
+              },
+              {
+                "name": "Draw",
+                "price": 23.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": 1728189843,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728189843,
+            "outcomes": [
+              {
+                "name": "Austin FC",
+                "price": 126.0
+              },
+              {
+                "name": "LA Galaxy",
+                "price": 1.05
+              },
+              {
+                "name": "Draw",
+                "price": 10.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "mybookieag",
+        "title": "MyBookie.ag",
+        "last_update": 1728189939,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728189939,
+            "outcomes": [
+              {
+                "name": "Austin FC",
+                "price": 100.0
+              },
+              {
+                "name": "LA Galaxy",
+                "price": 1.07
+              },
+              {
+                "name": "Draw",
+                "price": 7.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "livescorebet_eu",
+        "title": "LiveScore Bet (EU)",
+        "last_update": 1728189578,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728189578,
+            "outcomes": [
+              {
+                "name": "Austin FC",
+                "price": 76.0
+              },
+              {
+                "name": "LA Galaxy",
+                "price": 1.06
+              },
+              {
+                "name": "Draw",
+                "price": 10.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "tabtouch",
+        "title": "TABtouch",
+        "last_update": 1728189845,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728189845,
+            "outcomes": [
+              {
+                "name": "Austin FC",
+                "price": 141.0
+              },
+              {
+                "name": "LA Galaxy",
+                "price": 1.01
+              },
+              {
+                "name": "Draw",
+                "price": 19.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e5dab5da9af89a576fbbbce9fb6d2d2e",
+    "sport_key": "americanfootball_ncaaf",
+    "sport_title": "NCAAF",
+    "commence_time": 1728182447,
+    "home_team": "California Golden Bears",
+    "away_team": "Miami Hurricanes",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": 1728189955,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728189955,
+            "outcomes": [
+              {
+                "name": "California Golden Bears",
+                "price": 1.09
+              },
+              {
+                "name": "Miami Hurricanes",
+                "price": 7.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": 1728189956,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728189956,
+            "outcomes": [
+              {
+                "name": "California Golden Bears",
+                "price": 1.08
+              },
+              {
+                "name": "Miami Hurricanes",
+                "price": 7.3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betfair_ex_au",
+        "title": "Betfair",
+        "last_update": 1728189506,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728189506,
+            "outcomes": [
+              {
+                "name": "California Golden Bears",
+                "price": 1.01
+              },
+              {
+                "name": "Miami Hurricanes",
+                "price": 1.01
+              }
+            ]
+          },
+          {
+            "key": "h2h_lay",
+            "last_update": 1728189506,
+            "outcomes": [
+              {
+                "name": "California Golden Bears",
+                "price": 110.0
+              },
+              {
+                "name": "Miami Hurricanes",
+                "price": 110.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": 1728189883,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728189883,
+            "outcomes": [
+              {
+                "name": "California Golden Bears",
+                "price": 1.11
+              },
+              {
+                "name": "Miami Hurricanes",
+                "price": 6.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "gtbets",
+        "title": "GTbets",
+        "last_update": 1728190049,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728190049,
+            "outcomes": [
+              {
+                "name": "California Golden Bears",
+                "price": 1.21
+              },
+              {
+                "name": "Miami Hurricanes",
+                "price": 4.52
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": 1728190046,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728190046,
+            "outcomes": [
+              {
+                "name": "California Golden Bears",
+                "price": 1.09
+              },
+              {
+                "name": "Miami Hurricanes",
+                "price": 7.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "unibet",
+        "title": "Unibet",
+        "last_update": 1728190046,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728190046,
+            "outcomes": [
+              {
+                "name": "California Golden Bears",
+                "price": 1.09
+              },
+              {
+                "name": "Miami Hurricanes",
+                "price": 7.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "livescorebet_eu",
+        "title": "LiveScore Bet (EU)",
+        "last_update": 1728189957,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728189957,
+            "outcomes": [
+              {
+                "name": "California Golden Bears",
+                "price": 1.08
+              },
+              {
+                "name": "Miami Hurricanes",
+                "price": 6.75
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "tabtouch",
+        "title": "TABtouch",
+        "last_update": 1728190049,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728190049,
+            "outcomes": [
+              {
+                "name": "California Golden Bears",
+                "price": 1.09
+              },
+              {
+                "name": "Miami Hurricanes",
+                "price": 6.4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "coolbet",
+        "title": "Coolbet",
+        "last_update": 1728189957,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728189957,
+            "outcomes": [
+              {
+                "name": "California Golden Bears",
+                "price": 1.1
+              },
+              {
+                "name": "Miami Hurricanes",
+                "price": 6.2
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betr_au",
+        "title": "Betr",
+        "last_update": 1728189957,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728189957,
+            "outcomes": [
+              {
+                "name": "California Golden Bears",
+                "price": 1.1
+              },
+              {
+                "name": "Miami Hurricanes",
+                "price": 6.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pinnacle",
+        "title": "Pinnacle",
+        "last_update": 1728189411,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728189411,
+            "outcomes": [
+              {
+                "name": "California Golden Bears",
+                "price": 1.4
+              },
+              {
+                "name": "Miami Hurricanes",
+                "price": 3.1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pointsbetau",
+        "title": "PointsBet (AU)",
+        "last_update": 1728190048,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728190048,
+            "outcomes": [
+              {
+                "name": "California Golden Bears",
+                "price": 1.11
+              },
+              {
+                "name": "Miami Hurricanes",
+                "price": 5.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "tab",
+        "title": "TAB",
+        "last_update": 1728189957,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728189957,
+            "outcomes": [
+              {
+                "name": "California Golden Bears",
+                "price": 1.12
+              },
+              {
+                "name": "Miami Hurricanes",
+                "price": 6.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": 1728190047,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728190047,
+            "outcomes": [
+              {
+                "name": "California Golden Bears",
+                "price": 1.11
+              },
+              {
+                "name": "Miami Hurricanes",
+                "price": 6.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "nordicbet",
+        "title": "Nordic Bet",
+        "last_update": 1728189955,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728189955,
+            "outcomes": [
+              {
+                "name": "California Golden Bears",
+                "price": 1.11
+              },
+              {
+                "name": "Miami Hurricanes",
+                "price": 6.35
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "56571a2616e8a8595a87eae87514112f",
+    "sport_key": "americanfootball_ncaaf",
+    "sport_title": "NCAAF",
+    "commence_time": 1728184200,
+    "home_team": "Arizona Wildcats",
+    "away_team": "Texas Tech Red Raiders",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": 1728190047,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728190047,
+            "outcomes": [
+              {
+                "name": "Arizona Wildcats",
+                "price": 5.3
+              },
+              {
+                "name": "Texas Tech Red Raiders",
+                "price": 1.15
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": 1728190047,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728190047,
+            "outcomes": [
+              {
+                "name": "Arizona Wildcats",
+                "price": 5.0
+              },
+              {
+                "name": "Texas Tech Red Raiders",
+                "price": 1.16
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": 1728189883,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728189883,
+            "outcomes": [
+              {
+                "name": "Arizona Wildcats",
+                "price": 4.5
+              },
+              {
+                "name": "Texas Tech Red Raiders",
+                "price": 1.2
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "gtbets",
+        "title": "GTbets",
+        "last_update": 1728190049,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728190049,
+            "outcomes": [
+              {
+                "name": "Arizona Wildcats",
+                "price": 3.82
+              },
+              {
+                "name": "Texas Tech Red Raiders",
+                "price": 1.27
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": 1728190046,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728190046,
+            "outcomes": [
+              {
+                "name": "Arizona Wildcats",
+                "price": 5.0
+              },
+              {
+                "name": "Texas Tech Red Raiders",
+                "price": 1.17
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "livescorebet_eu",
+        "title": "LiveScore Bet (EU)",
+        "last_update": 1728190047,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728190047,
+            "outcomes": [
+              {
+                "name": "Arizona Wildcats",
+                "price": 5.1
+              },
+              {
+                "name": "Texas Tech Red Raiders",
+                "price": 1.14
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "unibet",
+        "title": "Unibet",
+        "last_update": 1728190046,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728190046,
+            "outcomes": [
+              {
+                "name": "Arizona Wildcats",
+                "price": 5.5
+              },
+              {
+                "name": "Texas Tech Red Raiders",
+                "price": 1.14
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "tabtouch",
+        "title": "TABtouch",
+        "last_update": 1728190049,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728190049,
+            "outcomes": [
+              {
+                "name": "Arizona Wildcats",
+                "price": 5.1
+              },
+              {
+                "name": "Texas Tech Red Raiders",
+                "price": 1.14
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pinnacle",
+        "title": "Pinnacle",
+        "last_update": 1728189411,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728189411,
+            "outcomes": [
+              {
+                "name": "Arizona Wildcats",
+                "price": 2.56
+              },
+              {
+                "name": "Texas Tech Red Raiders",
+                "price": 1.52
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "coolbet",
+        "title": "Coolbet",
+        "last_update": 1728190047,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728190047,
+            "outcomes": [
+              {
+                "name": "Arizona Wildcats",
+                "price": 5.2
+              },
+              {
+                "name": "Texas Tech Red Raiders",
+                "price": 1.14
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betr_au",
+        "title": "Betr",
+        "last_update": 1728190048,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728190048,
+            "outcomes": [
+              {
+                "name": "Arizona Wildcats",
+                "price": 5.25
+              },
+              {
+                "name": "Texas Tech Red Raiders",
+                "price": 1.15
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pointsbetau",
+        "title": "PointsBet (AU)",
+        "last_update": 1728190048,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728190048,
+            "outcomes": [
+              {
+                "name": "Arizona Wildcats",
+                "price": 4.9
+              },
+              {
+                "name": "Texas Tech Red Raiders",
+                "price": 1.13
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "tab",
+        "title": "TAB",
+        "last_update": 1728189957,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728189957,
+            "outcomes": [
+              {
+                "name": "Arizona Wildcats",
+                "price": 5.5
+              },
+              {
+                "name": "Texas Tech Red Raiders",
+                "price": 1.14
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": 1728190047,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728190047,
+            "outcomes": [
+              {
+                "name": "Arizona Wildcats",
+                "price": 5.25
+              },
+              {
+                "name": "Texas Tech Red Raiders",
+                "price": 1.14
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "nordicbet",
+        "title": "Nordic Bet",
+        "last_update": 1728190046,
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": 1728190046,
+            "outcomes": [
+              {
+                "name": "Arizona Wildcats",
+                "price": 5.3
+              },
+              {
+                "name": "Texas Tech Red Raiders",
+                "price": 1.15
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
